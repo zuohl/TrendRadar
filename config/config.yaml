@@ -96,7 +96,6 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 platforms:
-  
   # === 综合新闻媒体类 ===
   - id: "toutiao"
     name: "今日头条"
@@ -174,18 +173,13 @@ platforms:
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
-
-    id: "tencent-hot"
+  - id: "tencent-hot"
     name: "腾讯新闻 综合早报"
-    
-    id: "cls-telegraph"
+  - id: "cls-telegraph"
     name: "财联社 电报"
-    
-    id: "cls-depth"
+  - id: "cls-depth"
     name: "财联社 深度"
-    
-    id: "fastbull-express"
+  - id: "fastbull-express"
     name: "法布财经 快讯"
-    
-    id: "fastbull-news"
+  - id: "fastbull-news"
     name: "法布财经 头条"
